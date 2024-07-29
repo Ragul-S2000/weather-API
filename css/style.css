@@ -1,0 +1,14 @@
+.card{
+    background: rgb(36, 27, 0);
+        background: linear-gradient(130deg, rgba(36, 27, 0, 1) 30%, rgba(255, 209, 0, 1) 70%);
+
+}
+
+#body{
+    background-color: black;
+}
+.row{
+    padding-right:calc(var(--bs-gutter-x)*.-1);
+        padding-left: calc(var(--bs-gutter-x)* .-1) ;
+       
+}
